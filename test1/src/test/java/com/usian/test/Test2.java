@@ -1,4 +1,8 @@
 package com.usian.test;
-//本地ider工作仓库的代码
+//本地ider程序代码
 public class Test2 {
+  //每天早上更新其他同事提交代码
+  public static void main(String[] args) {
+      System.out.println("师姐你好");
+  }
 }
