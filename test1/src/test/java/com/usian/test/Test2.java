@@ -1,5 +1,5 @@
 package com.usian.test;
-//本地idea程序代码
+//远程github程序代码
 public class Test2 {
   //每天早上更新其他同事提交代码
   public static void main(String[] args) {
