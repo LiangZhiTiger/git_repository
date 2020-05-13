@@ -1,8 +1,8 @@
 package com.usian.test;
-//远程github程序代码
+//本地idea程序代码
 public class Test2 {
-  //每天早上更新其他同事提交代码
-  public static void main(String[] args) {
-      System.out.println("师姐你好");
-  }
+    //每天更新同事代码
+    public static void main(String[] args) {
+        System.out.println("师姐你好");
+    }
 }
