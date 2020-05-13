@@ -6,3 +6,4 @@ public class Test2 {
         System.out.println("师姐你好");
     }
 }
+//演示远程仓库冲突
